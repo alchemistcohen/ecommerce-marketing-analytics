@@ -22,6 +22,9 @@ Solución analítica *end-to-end* diseñada para evaluar la rentabilidad del mix
 </p>
 
 ---
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ecommerce-marketing-analytics-h9dvxdzdt3gpnfknanvmkq.streamlit.app/)
+
+🚀 **Demo en vivo:** [https://ecommerce-marketing-analytics-h9dvxdzdt3gpnfknanvmkq.streamlit.app/](https://ecommerce-marketing-analytics-h9dvxdzdt3gpnfknanvmkq.streamlit.app/)
 
 ## 🔍 Hallazgos de Negocio & Recomendaciones Estratégicas
 
